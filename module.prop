@@ -1,0 +1,7 @@
+id=magisk-meera
+name=meera
+version=v7.0
+versionCode=1
+author=jishnu7
+description=Use Meera as default font for Malayalam
+minMagisk=17000
